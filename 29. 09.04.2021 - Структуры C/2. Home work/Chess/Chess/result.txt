@@ -1,0 +1,1932 @@
+------------------ 1 -------------------
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 2 -------------------
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 3 -------------------
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 4 -------------------
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 5 -------------------
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    W    X    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 6 -------------------
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 7 -------------------
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    W    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 8 -------------------
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 9 -------------------
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 10 -------------------
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    W    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 11 -------------------
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 12 -------------------
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 13 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 14 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 15 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  W    O    X    O    X    O    X    O  
+
+
+
+
+------------------ 16 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 17 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    W    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 18 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 19 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 20 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    X    W    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 21 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    W    X    O    X    O    X    O  
+
+
+
+
+------------------ 22 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  W    O    X    O    X    O    X    O  
+
+
+
+
+------------------ 23 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+
+
+
+------------------ 24 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 25 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 26 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    W    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 27 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 28 -------------------
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 29 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 30 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    W    X    O    X    O    X    O  
+
+
+
+
+------------------ 31 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+
+
+
+------------------ 32 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 33 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    W    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+
+
+
+------------------ 34 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    O    W    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 35 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 36 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    X    W    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+
+
+
+------------------ 37 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+
+
+
+------------------ 38 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 39 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+
+
+
+------------------ 40 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    W    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 41 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 42 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+
+
+
+------------------ 43 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    W    X    O    X    O    X    O  
+
+
+
+
+------------------ 44 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 45 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 46 -------------------
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 47 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 48 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    W    X    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 49 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 50 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+
+
+
+------------------ 51 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+
+
+
+------------------ 52 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 53 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 54 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+
+
+
+------------------ 55 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 56 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    W    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+
+
+
+------------------ 57 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+
+
+
+------------------ 58 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 59 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 60 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+
+
+
+------------------ 61 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 62 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    W    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+
+
+
+------------------ 63 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    W    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+
+
+
+------------------ 64 -------------------
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    W    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 65 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 66 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 67 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 68 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 69 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    W    O    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 70 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    W    X    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+
+
+
+------------------ 71 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+
+
+
+------------------ 72 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+
+
+
+------------------ 73 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 74 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    W    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 75 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    W    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 76 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 77 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 78 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+
+
+
+------------------ 79 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 80 -------------------
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+
+
+
+------------------ 81 -------------------
+
+  O    X    O    X    O    X    W    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 82 -------------------
+
+  O    X    O    X    O    X    W    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 83 -------------------
+
+  O    X    O    X    O    X    W    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 84 -------------------
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    O    W    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 85 -------------------
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    W    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 86 -------------------
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    O    W  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 87 -------------------
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    W    X    O    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    X    O    X    O    W    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
+------------------ 88 -------------------
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    O    X    O    X    O    X    W  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 89 -------------------
+
+  O    X    O    X    O    X    O    W  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    W    O    X    O    X  
+
+  W    O    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    W    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 90 -------------------
+
+  O    X    O    X    O    X    O    W  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    W    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    O    W    O  
+
+  O    X    O    W    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+
+
+
+------------------ 91 -------------------
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    W    O    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    X    O    X    W    X    O  
+
+  O    W    O    X    O    X    O    X  
+
+  X    O    X    O    W    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    W    X    O    X    O  
+
+
+
+
+------------------ 92 -------------------
+
+  O    X    O    X    O    X    O    W  
+
+  X    O    X    W    X    O    X    O  
+
+  W    X    O    X    O    X    O    X  
+
+  X    O    W    O    X    O    X    O  
+
+  O    X    O    X    O    W    O    X  
+
+  X    W    X    O    X    O    X    O  
+
+  O    X    O    X    O    X    W    X  
+
+  X    O    X    O    W    O    X    O  
+
+
+
+
